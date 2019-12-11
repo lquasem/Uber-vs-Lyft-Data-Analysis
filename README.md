@@ -5,10 +5,15 @@ UBER VS LYFT ANALYSIS
 Technologies used: SQL, Python, Pandas, Excel, Tableau, SK-Learn
 
 Data Extraction: API & Excel
+
 Data Modeling: SQL
+
 Data Engineering: Python, Pandas
+
 Data Analysis: Python
+
 Machine Learning: SK-Learn, Multiple Regression
+
 BI Tool presentation: Tableau
 
 
