@@ -15,11 +15,14 @@ Data Analysis: Python
 Machine Learning: SK-Learn, Multiple Regression
 
 BI Tool presentation: Tableau
+https://public.tableau.com/profile/loba8789#!/vizhome/ubervlyft/Weather?publish=yes
 
 
 
-Main Data Source : https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
-
+Data Source : https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
+              https://openweathermap.org/api
+              
+              
 Project Summary: 
 
 In this project data was sourced from Kaggle to get 4 weeks data of Uber and Lyft services in New York city.
