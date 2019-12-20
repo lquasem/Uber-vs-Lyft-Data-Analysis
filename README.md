@@ -15,8 +15,7 @@ Data Analysis: Python
 Machine Learning: SK-Learn, Multiple Regression
 
 BI Tool presentation: Tableau
-https://public.tableau.com/profile/loba8789#!/vizhome/ubervlyft/Weather?publish=yes
-
+https://public.tableau.com/profile/loba8789#!/vizhome/UbervsLyft/Story1
 
 
 Data Source : https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
