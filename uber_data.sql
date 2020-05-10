@@ -112,12 +112,5 @@ SELECT
    DISTINCT column_1
 FROM
    table_name;
+Group by price;
 
-
--- Filter the query to show only dogs under the age of 5
-SELECT pet_type, pet_name
-FROM people
-WHERE pet_type = 'dog'
-AND pet_age < 5;
-
-desc cab_rides1
